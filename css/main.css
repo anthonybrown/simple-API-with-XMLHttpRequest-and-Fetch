@@ -435,14 +435,14 @@ template {
 }
 
 .footer {
+  position: absolute;
   padding-bottom: 0;
   margin: 1em 0 0 0;
   width: 100%;
-  height: 100px;
   background-image: linear-gradient(180deg, #4c4c4c 0%, #333333 100%); 
   color: lightgray;
   text-align: center;
-  line-height: 100px;
+  line-height: 175px;
 }
 
 footer > p {
