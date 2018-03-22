@@ -410,7 +410,7 @@ template {
 
  img {
    display: block;
-   margin: 1rem auto;
+   margin: 1rem auto 5rem;
    max-width: 100%;
  }
 
