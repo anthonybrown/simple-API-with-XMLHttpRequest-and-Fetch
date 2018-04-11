@@ -9,11 +9,11 @@ const container = document.createElement('div');
 container.setAttribute('class', 'container');
 
 function createNode (element) {
-	return document.createElement(element)
+  return document.createElement(element)
 }
 
 function append (parent, el) {
-	return parent.appendChild(el)
+  return parent.appendChild(el)
 }
 
 
